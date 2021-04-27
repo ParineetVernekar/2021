@@ -57,6 +57,7 @@ To add your own project below, just [edit](https://github.com/wwdc/2021/edit/mai
 |[Niklas Bülow](https://twitter.com/NiklasBuelow)|[GitHub](https://github.com/insightmind/WWDC21SwiftStudentChallenge)||SpriteKit, UIKit, AVFoundation|Submitted|
 |[Omar Abusharar](http://github.com/omartheturtle)||[Youtube](https://youtu.be/fo5AtVe_PJk)|SwiftUI|Submitted|
 |[Oscar Gorog](https://github.com/OscarGorog)|[GitHub](https://github.com/OscarGorog/WWDC21-Playground)||SwiftUI, Combine, RealityKit, AVFoundation|Submitted|
+|[Parineet Vernekar](https://github.com/ParineetVernekar)|[GitHub](https://github.com/ParineetVernekar/WWDC21AroundTheSolarSystem/)||ARKit, SceneKit, SwiftUI, UIKit|Submitted|
 |[Peter Yaacoub](https://github.com/Yaacoub)|[GitHub](https://github.com/Yaacoub/Swift-Student-Challenge/tree/master/WWDC%202021)||AVFoundation, CoreMotion, SpriteKit, UIKit|Submitted|
 |[Riccardo Persello](https://github.com/persello)|[GitHub](https://github.com/persello/ssc21)||Accelerate|Submitted|
 |[Rodrigo Matos](https://github.com/Rudigus)|[GitHub](https://github.com/Rudigus/shaderland)||SceneKit, SpriteKit, UIKit|Submitted|
